@@ -1,10 +1,5 @@
 Patrick Cherry
 
-### Pronouns
-
-- he / him (linux)
-- he \\ him (Windows)
-
 ### Experience
 
 - BillionToOne \| Senior Scientist, Oncology R&D \| Sept. 2024 - Current
