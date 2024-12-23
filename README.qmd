@@ -1,7 +1,14 @@
 ---
-author: "Patrick Cherry"
+title: "Patrick Cherry"
 format: gfm
 ---
+:::{.callout-note}
+## I am hiring.
+Hi everyone, I am hiring for a Research Associate to join the BillionToOne Research and Development team in Menlo Park to help work on making our Oncology tests more sensitive and broader in scope. I am looking for a BS or MS in Molecular / Cell Biology or related fields with 1-2 years research experience in standard molecular biology techniques, and the ability to quickly learn experimental, mathematical, and statistical concepts. BillionToOne can offer interesting and impactful work, great coworkers, and great benefits. Apply using the link below, or DM me to recommend someone you think would be a good fit.
+
+[Job Post | Research Associate | BillionToOne | Core Development, Oncology](https://grnh.se/0541b3175us)
+:::
+
 ### Experience
  - BillionToOne | Senior Scientist, Oncology R&D | Sept. 2024 - Current
  - Twist Bioscience | Senior R&D Scientist | Jan. 2021 - Apr. 2024
