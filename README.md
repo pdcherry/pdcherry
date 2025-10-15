@@ -9,9 +9,9 @@
 ### Résumé and CV
 
 - [View CV in
-  browser](https://pdcherry.github.io/Patrick-Cherry-cv.html)
+  browser](https://pcherry.io/Patrick-Cherry-cv.html)
 - [Download resume as
-  pdf](https://pdcherry.github.io/Patrick-Cherry-resume.pdf)
+  pdf](https://pcherry.io/Patrick-Cherry-resume.pdf)
 - [Resume and CV git repo](https://github.com/pdcherry/cherry-cv-public)
 
 ### Education
